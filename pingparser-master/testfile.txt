@@ -1,0 +1,10 @@
+PING googe.com (159.203.152.145): 56 data bytes
+64 bytes from 159.203.152.145: icmp_seq=0 ttl=54 time=29.580 ms
+64 bytes from 159.203.152.145: icmp_seq=1 ttl=54 time=24.716 ms
+64 bytes from 159.203.152.145: icmp_seq=2 ttl=54 time=29.435 ms
+64 bytes from 159.203.152.145: icmp_seq=3 ttl=54 time=24.387 ms
+64 bytes from 159.203.152.145: icmp_seq=4 ttl=54 time=36.153 ms
+
+--- googe.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 24.387/28.854/36.153/4.271 ms

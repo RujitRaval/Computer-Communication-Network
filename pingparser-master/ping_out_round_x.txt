@@ -1,0 +1,27 @@
+------------------------ Round X -----------------> \n
+PING google.com (172.217.10.110): 56 data bytes
+64 bytes from 172.217.10.110: icmp_seq=0 ttl=55 time=30.955 ms
+64 bytes from 172.217.10.110: icmp_seq=1 ttl=55 time=30.259 ms
+64 bytes from 172.217.10.110: icmp_seq=2 ttl=55 time=36.845 ms
+64 bytes from 172.217.10.110: icmp_seq=3 ttl=55 time=29.619 ms
+64 bytes from 172.217.10.110: icmp_seq=4 ttl=55 time=26.528 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 26.528/30.841/36.845/3.361 ms
+<-------------------Roud X Over ----------------------> 
+
+<------------------------ Round X -----------------> 
+
+PING google.com (172.217.10.110): 56 data bytes
+64 bytes from 172.217.10.110: icmp_seq=0 ttl=55 time=38.912 ms
+64 bytes from 172.217.10.110: icmp_seq=1 ttl=55 time=27.977 ms
+64 bytes from 172.217.10.110: icmp_seq=2 ttl=55 time=32.652 ms
+64 bytes from 172.217.10.110: icmp_seq=3 ttl=55 time=27.366 ms
+64 bytes from 172.217.10.110: icmp_seq=4 ttl=55 time=32.155 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 27.366/31.812/38.912/4.140 ms
+<-------------------Roud X Over ----------------------> 
+

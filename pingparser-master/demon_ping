@@ -1,0 +1,9 @@
+echo "<------------------------ Round X -----------------> \n" >> ping_out_round_x.txt;
+ping -c 5 google.com >> ping_out_round_x.txt; 
+echo "<-------------------Roud X Over ----------------------> \n" >> ping_out_round_x.txt
+
+
+
+
+
+
